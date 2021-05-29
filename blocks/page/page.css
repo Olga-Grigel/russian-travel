@@ -1,0 +1,12 @@
+.page {
+    background-color: #2A2C2F;
+    color: #fff;
+    padding: 28px 0 24px;
+    min-width: 320px;
+    -webkit-font-smoothing: antialiased;
+  }
+  @media screen and (max-width: 767px) {
+    .page {
+        padding-top: 16px;
+      }
+  }

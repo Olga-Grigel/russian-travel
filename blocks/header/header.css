@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items:center ;
+    height: 52px;
+    position: relative;
+    margin: 0 48px 0;
+}
+@media screen and (max-width: 1024px) {
+    .header {
+        margin: 0 24px 0;
+      }
+}
+@media screen and (max-width: 767px) {
+    .header {
+        margin: 0 16px 0;
+        height: 42px;
+      }
+}
