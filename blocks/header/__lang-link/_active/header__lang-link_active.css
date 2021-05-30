@@ -2,10 +2,4 @@
     text-decoration: underline;
     
   }
-  @media screen and (max-width: 767px) {
-    .header__lang-link {
-      font-size: 18px;
-      line-height: 1.11;
-      list-style: none;
-    }
-  }
+  
